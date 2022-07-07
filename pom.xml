@@ -61,7 +61,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <jetty.version>9.2.26.v20180806</jetty.version>
+        <jetty.version>10.0.10</jetty.version>
     </properties>
 
     <build>
